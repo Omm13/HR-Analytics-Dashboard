@@ -2,9 +2,15 @@
 
 ## Project Overview
 
-This project presents an interactive HR Analytics Dashboard built in Microsoft Excel to analyze workforce demographics, employee performance, attrition trends, and training investments. The dashboard transforms raw HR data into actionable insights through KPI tracking, visual analytics, and interactive filtering.
+This project presents an interactive HR Analytics Dashboard built in Microsoft Excel to analyze workforce demographics, employee performance, attrition trends, employee satisfaction, and training investments. The dashboard transforms raw HR data into actionable insights through KPI tracking, visual analytics, and interactive filtering.
 
 The project was developed using Microsoft Excel with data cleaning, calculated fields, Pivot Tables, Pivot Charts, KPI cards, and slicers to support workforce analysis and decision-making.
+
+---
+
+## Dashboard Preview
+
+![Dashboard](dashboard-preview.png)
 
 ---
 
@@ -18,6 +24,21 @@ The objective of this project is to analyze employee-related data and answer key
 * What is the distribution of employee statuses?
 * How is the training budget allocated across different programs?
 * What insights can be derived from employee satisfaction and engagement metrics?
+
+---
+
+## Dataset
+
+The project uses a synthetic HR dataset containing employee demographics, employment status, performance ratings, engagement scores, satisfaction metrics, and training information.
+
+The dataset was cleaned and transformed before creating the dashboard, including:
+
+* Age calculation from Date of Birth
+* Age group categorization
+* Employee tenure calculation
+* Active employee identification
+* Attrition flag creation
+* KPI metric development
 
 ---
 
@@ -52,9 +73,9 @@ The objective of this project is to analyze employee-related data and answer key
 
 ## Skills Demonstrated
 
-* Data Cleaning and Preparation
-* Data Transformation
-* Calculated Columns and KPI Development
+* Data Cleaning & Transformation
+* Excel Formula Development
+* KPI Design & Development
 * Pivot Tables
 * Pivot Charts
 * Dashboard Design
@@ -75,12 +96,6 @@ The objective of this project is to analyze employee-related data and answer key
 
 ---
 
-## Dashboard Preview
-
-![Dashboard](dashboard-preview.png)
-
----
-
 ## Tools Used
 
 * Microsoft Excel
@@ -93,4 +108,6 @@ The objective of this project is to analyze employee-related data and answer key
 
 ## Project Outcome
 
-This dashboard converts raw HR data into an interactive workforce analytics solution that supports employee monitoring, performance evaluation, attrition analysis, and training investment tracking. The project demonstrates practical Excel-based business intelligence skills, including dashboard development, KPI reporting, and HR data analysis.
+This dashboard converts raw HR data into an interactive workforce analytics solution that supports employee monitoring, performance evaluation, attrition analysis, and training investment tracking.
+
+The project demonstrates practical Excel-based business intelligence skills, including data cleaning, KPI reporting, dashboard development, interactive reporting, and HR data analysis.
